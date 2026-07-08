@@ -1,16 +1,57 @@
-## Hi there 👋
+#, Hi im uchechi
 
-<!--
-**uchechi-grace/uchechi-grace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I,m a cybersecurity student at NIIT Port Harcourt,passionate about offensive and defensive
+I enjoy building practicl cyber securwity project that demostrate real world skil in :
+- Penetration testing
+- log Analysis
+- Malware Analysis
+- Digital foresinc
+- OSINT
+- Threat Hunting
+- Social Engineering
+- Governance risks ana compliance
 
-Here are some ideas to get you started:
+  ## Projects
+| Project | Descritpion |Respository|
+|---------|-------------|-----------|
+|OSINT Investigation |Conducted  an OSINT investigation on a target organisation | coming soon|
+|Log Analysis |Analysis IIS and windows Even Logs to identify attacks | coming soon | 
+| Malware Analysis | complited malware Analysis | coming soon |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## skills
+### Operating System
+- Windows
+- Linux
+
+### Networking
+-TCP/IP
+-DNS
+-HTTP
+-FTP
+-SSH
+-TELNET
+
+### Cybersecurity Tools
+-Nmap
+-Wireshark
+-BurpSuite
+-Splunk
+-Snort
+-Suricata
+-ELK
+-Git
+-GitHub
+
+### Certifications
+-ISC2 CC (In Progress)
+-CompTIA Security+ (In Progress)
+
+### Education
+-NIIT Port Harcourt: Cybersecurity Program
+
+### Contact
+Email: uchechigrace2@gmail.com
+Linkedin:
+  
+
