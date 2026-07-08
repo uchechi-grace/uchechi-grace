@@ -1,4 +1,4 @@
-#, Hi im uchechi
+# Hi im uchechi
 
 ## About Me
 I,m a cybersecurity student at NIIT Port Harcourt,passionate about offensive and defensive
