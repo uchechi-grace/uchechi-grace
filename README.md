@@ -20,38 +20,39 @@ I enjoy building practicl cyber securwity project that demostrate real world ski
 | Malware Analysis | complited malware Analysis | coming soon |
 
 ## skills
-### Operating System
+
+## Operating System
 - Windows
 - Linux
 
-### Networking
--TCP/IP
--DNS
--HTTP
--FTP
--SSH
--TELNET
+## Networking
+- TCP/IP
+- DNS
+- HTTP
+- FTP
+- SSH
+- TELNET
 
-### Cybersecurity Tools
--Nmap
--Wireshark
--BurpSuite
--Splunk
--Snort
--Suricata
--ELK
--Git
--GitHub
+## Cybersecurity Tools
+- Nmap
+- Wireshark
+- BurpSuite
+- Splunk
+- Snort
+- Suricata
+- ELK
+- Git
+- GitHub
 
-### Certifications
--ISC2 CC (In Progress)
--CompTIA Security+ (In Progress)
+## Certifications
+- ISC2 CC (In Progress)
+- CompTIA Security+ (In Progress)
 
-### Education
--NIIT Port Harcourt: Cybersecurity Program
+## Education
+- NIIT Port Harcourt: Cybersecurity Program
 
-### Contact
-Email: uchechigrace2@gmail.com
-Linkedin:
+## Contact
+- Email: uchechigrace2@gmail.com
+- Linkedin:
   
 
