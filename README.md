@@ -15,7 +15,7 @@ I enjoy building practicl cyber securwity project that demostrate real world ski
   ## Projects
 | Project | Descritpion |Respository|
 |---------|-------------|-----------|
-|OSINT Investigation |Conducted  an OSINT investigation on a target organisation | https://github.com/uchechi-grace/uchechi-grace |
+|OSINT Investigation |Conducted  an OSINT investigation on a target organisation | https://github.com/uchechi-grace/osint-project |
 |Log Analysis |Analysis IIS and windows Even Logs to identify attacks | https://github.com/uchechi-grace/log-analysis | 
 | Malware Analysis | complited malware Analysis | https://github.com/uchechi-grace/malware-analysis |
 
